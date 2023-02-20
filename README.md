@@ -3,7 +3,7 @@
 
 <h3 align="left">You can access the site through this link: </h3>
 <p>
-<h3 align="left">https://joao-anacleto-a22202260.github.io/Personal-Website-CV/ </h3>
+<h3 align="left">https://joao-anacleto1.github.io/Personal-Website-CV/</h3>
 </p>
 <p align="left">
 </p>
